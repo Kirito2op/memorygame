@@ -1,0 +1,27 @@
+.pokemon-cont{
+    background-color: #fcd34d;
+    padding: 20px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+body{
+    font-family: "Playwrite DE Grund";
+}
+
+.pokemon-cont img{
+    background-color: #c4b5fd;
+    border: 5px solid black;
+    border-radius: 20px;
+}
+
+.pokemon-title{
+    margin-top: 10px;
+    text-align: center;
+    color: #1e1b4b;
+    font-weight: 400;
+}
+
+.pokemon-cont:hover{
+    box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.8), 0 6px 20px 0 rgba(255, 255, 255, 0.8);
+}

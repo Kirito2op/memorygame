@@ -1,0 +1,17 @@
+.card-container{
+  padding: 30px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  column-gap: 20px;
+  row-gap: 20px;
+}
+
+.game-heading{
+  font-size: 40px;
+}
+
+.game-cont{
+  display: flex;
+  justify-content: space-between;
+  color: #86efac;
+}
